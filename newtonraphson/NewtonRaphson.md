@@ -23,9 +23,12 @@ $$
 \mathbf{
     s_1 \in [a,b]\ \Leftrightarrow\ f(s_1)*f''(s_1)>0
 }
-\\~\\
-s_1=\pi\\
-s_2=\pi-\frac{f(\pi)}{f'(\pi)}\approx 3.16
+$$
+
+$$
+\mathbf{
+    s_1=\pi; s_2=\pi-\frac{f(\pi)}{f'(\pi)}\approx 3.16
+}
 $$
 
 ## Convergencia en Matlab
